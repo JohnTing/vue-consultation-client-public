@@ -1,18 +1,17 @@
 {
-  "index.html": {
-    "src": "index.html",
-    "short_name": "病患介面2",
-    "name": "骨科看診分流APP 病患介面2",
-    "icons": [
-      {
-        "src": "favicon.ico",
-        "sizes": "64x64 32x32 24x24 16x16",
-        "type": "image/x-icon"
-      }
-    ],
-    "start_url": ".",
-    "display": "fullscreen",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
-  }
+  "src": "index.html",
+  "short_name": "病患介面2",
+  "name": "骨科看診分流APP 病患介面2",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+
 }
